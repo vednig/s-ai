@@ -10,7 +10,7 @@ export default function Header() {
           </div>
           <div>
             <h1 className="text-3xl font-bold text-white tracking-tight">
-              Genfinity Beta
+              Studio AI Beta
             </h1>
             <p className="text-slate-400 text-sm mt-0.5">
               Unlimited AI-powered image and video generation
